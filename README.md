@@ -1,6 +1,6 @@
 ## Ballbot Dynamics
 The following matlab files are ballbot dynamics presented in my published papers.
-1. **2D Dynamics (Planar Dynamics)**: (2D_dynamics.m) Dynamics of the ballbot in a two-dimensional plane.
+1. **2D Dynamics (Planar Dynamics)**: (f2D_dynamics.m) Dynamics of the ballbot in a two-dimensional plane.
 
 >Paper: [Robust integral backstepping hierarchical sliding mode controller for a ballbot system](https://doi.org/10.1016/j.ymssp.2020.106866)
 2. **Coupled 2D Dynamics**: (to be updated) Coupled dynamics of vertical planes, while separating the horizontal plane.
